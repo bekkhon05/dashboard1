@@ -1,0 +1,35 @@
+.thtr{
+    padding: 0 10px;
+}
+.table{
+    border: 1px solid #DDDDDD;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+@media screen and (max-width: 767px) {
+    .table{
+    width: 100%;
+    margin-bottom: 15px;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+}
+@media screen and (max-width: 424px) {
+    .table{
+    width: 50%;
+    margin-bottom: 15px;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+}
+
+.css-1ex1afd-MuiTableCell-root{
+    padding: 0px 16px !important
+}
+.css-5cywl5-MuiTableCell-root{
+    padding: 2px !important;
+}
+.css-1q699pa-MuiTableCell-root.css-1q699pa-MuiTableCell-root{
+    padding: 6px !important;
+
+}

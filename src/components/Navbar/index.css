@@ -1,0 +1,62 @@
+
+.Navbar1 .css-hyum1k-MuiToolbar-root{
+    min-height: 0px;
+}
+#inp4:focus{
+    border-color: rgb(25, 192, 200);
+    outline: 0;
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 8px rgb(25 192 200 / 60%);
+}
+#inp4{
+    display: block;
+    width: 150px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+    border-radius: 0px;
+    height: 34px;
+}
+#panel1a-header:focus{
+    background: rgba(145,145,145,0.3);
+}
+#panel1a-header:hover{
+    background: rgba(145,145,145,0.3);
+}
+#Navbar2ZZZ:hover{
+    background: rgb(191, 232, 167);
+}
+#Navbar2ZZZ:focus{
+    background: rgb(191, 232, 167)!important;
+}
+#Navbar2ZZZ:active{
+    background-color: rgb(191, 232, 167)!important;
+}
+#Navbar2ZZZ:focus-visible{
+    background-color: rgb(191, 232, 167)!important;
+}
+#Navbar2ZZZ:focus-within{
+    background-color: rgb(191, 232, 167)!important;
+}
+#menu-appbar .css-1poimk-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper{
+    width: 100%;
+    max-width: calc(100% + 32px);
+    left: 0px;
+    right: 0px;
+    box-shadow: none;
+    border-radius: 0px;
+    padding: 20px;
+    background-color: #EBEBEB;
+}
+@media screen and (max-width:950px) {
+    #Navbar2SX{
+        width: 0px;
+        display: none;
+        height: 0px;
+    }
+}

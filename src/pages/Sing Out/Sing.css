@@ -1,0 +1,23 @@
+.sing_input{
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+}
+.sing_input:focus {
+    border-color: #66afe9;
+    outline: 0;
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 8px rgb(102 175 233 / 60%);
+}
+.sing_prcheck{
+    position: absolute;
+    margin: 4px 0 0;
+    margin-left: -20px
+}
